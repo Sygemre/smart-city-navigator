@@ -1,2 +1,2 @@
-# Rota oluşturma sistemi
-AI-supported student performance and academic risk analysis mobile system
+# Smart City Navigator
+AI-powered personalized city route planner based on user interests and location
