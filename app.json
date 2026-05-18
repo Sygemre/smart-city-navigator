@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "Sehir Rota Planlayici",
+    "slug": "sehir-rota-planlayici",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
