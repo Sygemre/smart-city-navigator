@@ -26,7 +26,7 @@ npm install
 npx expo start
 ```
 
-## 🔌 Kullanılan API'ler ve Veri Kaynakları
+##  Kullanılan API'ler ve Veri Kaynakları
 
 Projede veri çeşitliliğini artırmak ve kullanıcıya zengin bir rota planı sunabilmek için 3 farklı dinamik veri kaynağı entegre edilmiştir:
 
